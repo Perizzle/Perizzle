@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Perizzle
-- 👀 I’m interested in discord.js
-- 🌱 I’m currently learning javacode
-- 📫 How to reach me @Perizzle#6873 on discord
+- 📝 Best Discord TOS Follower :)
